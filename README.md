@@ -1,2 +1,2 @@
-Live Link with Broken Sign In
+Live Link with Google Sign In
 https://hyper0-chat.netlify.app
